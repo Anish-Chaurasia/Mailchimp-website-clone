@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+<h1>Fully Responsive Clone of Mailchimp website</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p>Cloned website deployed link :---  https://mailchimp-by-anish.netlify.app/</p>
 
-## Available Scripts
+<h2>Description :-</h2>
+<p> This is the  fully responsive clone of mailchimp website. I have clone this in 2 days.</p>
 
-In the project directory, you can run:
 
-### `npm start`
+<h2>Technologies Used :- </h2>
+<p><b>React.js: </b>     A JavaScript library for building user interfaces.</p>
+<p><b>CSS Modules: </b>     Local scoping of styles for components.</p>
+<p><b>Responsive Design: </b>     The website is designed to be usable on various devices and screen sizes.</p>
+<p><b>React Icon :-  </b> Include popular icons in React projects easily with react-icons</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<h1>Project Images:- </h1>
+<h2>Desktop View</h2>
+<img  width="700px"  src="https://github.com/Anish-Chaurasia/Mailchimp-website-clone/assets/95374922/b9d6cf4b-a0c7-477e-8ba4-f439708dc98c "/>
+<img  width="700px"  src="https://github.com/Anish-Chaurasia/Mailchimp-website-clone/assets/95374922/42568cb6-d4ab-431a-a52c-3cee9b7fa229 "/>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h2>Mobile View</h2>
+<img  width="700px"  src="https://github.com/Anish-Chaurasia/Mailchimp-website-clone/assets/95374922/a1f0206d-7266-4529-8a00-f44d6dc9edc0"/>
 
-### `npm run build`
+<img  width="700px"  src="https://github.com/Anish-Chaurasia/Mailchimp-website-clone/assets/95374922/4f3fa30c-6e14-4f28-89c5-942ea30be00f "/>
+<img  width="700px"  src="https://github.com/Anish-Chaurasia/Mailchimp-website-clone/assets/95374922/a73f5379-c4fc-4c46-8507-1bae289fef8c "/>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
