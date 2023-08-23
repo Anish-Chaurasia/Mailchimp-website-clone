@@ -20,9 +20,9 @@
 
 
 <h2>Mobile View</h2>
+<img  width="700px"  src="https://github.com/Anish-Chaurasia/Mailchimp-website-clone/assets/95374922/4f3fa30c-6e14-4f28-89c5-942ea30be00f "/>
 <img  width="700px"  src="https://github.com/Anish-Chaurasia/Mailchimp-website-clone/assets/95374922/a1f0206d-7266-4529-8a00-f44d6dc9edc0"/>
 
-<img  width="700px"  src="https://github.com/Anish-Chaurasia/Mailchimp-website-clone/assets/95374922/4f3fa30c-6e14-4f28-89c5-942ea30be00f "/>
 <img  width="700px"  src="https://github.com/Anish-Chaurasia/Mailchimp-website-clone/assets/95374922/a73f5379-c4fc-4c46-8507-1bae289fef8c "/>
 
 
